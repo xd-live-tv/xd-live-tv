@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/041839_08e57b4e86e641219baff090c2c76cf2~mv2.png/v1/fill/w_105,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1686224292314.png", XD (720p)
+#EXTINF:-1 tvg-logo= "https://static.wixstatic.com/media/041839_08e57b4e86e641219baff090c2c76cf2~mv2.png/v1/fill/w_105,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1686224292314.png", XD (720p)
 https://glb.bozztv.com/glb/ssh101/xdtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7b4f12_097fdb1ca66c4818a5d17fd9e7be4c51~mv2.png/v1/fill/w_264,h_83,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1706865198198.png", TURBO TV (540p)
+#EXTINF:-1 tvg-logo= "https://static.wixstatic.com/media/7b4f12_097fdb1ca66c4818a5d17fd9e7be4c51~mv2.png/v1/fill/w_264,h_83,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1706865198198.png", TURBO TV (540p)
 https://glb.bozztv.com/glb/ssh101/turbomuzika/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/041839_9002cfb3c3804334bfa3f6aa077f3e56~mv2.png/v1/crop/x_23,y_248,w_664,h_223/fill/w_181,h_61,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BA_tv_20240615_230735_0000.png", BA.tv (540p)
+#EXTINF:-1 tvg-logo= "https://static.wixstatic.com/media/041839_9002cfb3c3804334bfa3f6aa077f3e56~mv2.png/v1/crop/x_23,y_248,w_664,h_223/fill/w_181,h_61,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BA_tv_20240615_230735_0000.png", BA.tv (540p)
 https://glb.bozztv.com/glb/ssh101/batv/index.m3u8
