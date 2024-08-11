@@ -19,22 +19,22 @@ https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 , TOP Music
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 , FolkPulse TV
+https://glb.bozztv.com/glb/ssh101/folkpulse/index.m3u8
 #EXTINF:-1 , Deluxe Music Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="", iHeart Radio 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="", iHeart Radio 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 , TURBO
-https://glb.bozztv.com/glb/ssh101/turbomuzika/index.m3u8
-#EXTINF:-1 , RTVS Sport
-http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 , Lenz Sport
+https://ss.90minlive.online/sport/Lenz/playlist.m3u8
 #EXTINF:-1 , JOJ Sport
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
-#EXTINF:-1 , Canalplus Sport Czech
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 , CT Sport
-http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 , AIO Sport 1
+https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+#EXTINF:-1 , IRIB 3 SD
+https://live2.tmk.ir/channel3/signal/stream.m3u8
 #EXTINF:-1 , AD Sport 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 , AD Sport 2 
@@ -49,8 +49,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 , 4sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 , Claro Sports Chile
-https://stitcher-ipv4.pluto.tv/live/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={.m3u8
+#EXTINF:-1 , IRIB TV9
+https://liveproxy.splus.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-id="", Belarus Sport 5
@@ -62,8 +62,8 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 , Charge! TV
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 , Degrassi: Next Generation
-https://d365kok94jpr38.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/b5994a2d-7af9-4132-b8b0-40fe1071b5a8/2.m3u8
+#EXTINF:-1 , nord
+https://glb.bozztv.com/glb/ssh101/nordtv01/index.m3u8
 #EXTINF:-1 , COMET
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 , NBCLX Home
@@ -74,8 +74,8 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 , AL Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="",Futbol TJ
-https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="",RTK 1 
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="",RTK 4 
