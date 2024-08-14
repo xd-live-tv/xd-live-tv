@@ -33,8 +33,8 @@ https://ss.90minlive.online/sport/Lenz/playlist.m3u8
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 , AIO Sport 1
 https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
-#EXTINF:-1 , IRIB 3 SD
-https://live2.tmk.ir/channel3/signal/stream.m3u8
+#EXTINF:-1 , IRIB TV3
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 #EXTINF:-1 , AD Sport 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 , AD Sport 2 
