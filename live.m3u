@@ -7,10 +7,18 @@ https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 , Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 , TV Slon Extra Tuzla
-http://31.47.0.130:8082
+#EXTINF:-1 , TV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 , RTL.hr 
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="",RTL Kockica HR
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sehara Online
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+#EXTINF:-1 tvg-id="",RTV Pink
+https://live.rednet.rs/providus/pink1.m3u8
+#EXTINF:-1 tvg-id="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
 #EXTINF:-1 , VIVA Music TV
 https://glb.bozztv.com/glb/ssh101/vivarussia/index.m3u8
 #EXTINF:-1 , EXTRA TV Hrvatska
@@ -32,7 +40,9 @@ https://ss.90minlive.online/sport/Lenz/playlist.m3u8
 #EXTINF:-1 , JOJ Sport
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 , AIO Sport 1
-https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+https://ss.90minlive.online/sport/aiosport/playlist.m3u8
+#EXTINF:-1 , AIO Sport 2
+https://ss.90minlive.online/sport/aiosport2/playlist.m3u8
 #EXTINF:-1 , IRIB TV3
 https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 #EXTINF:-1 , AD Sport 1
@@ -74,13 +84,23 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 , AL Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="", TRT 1
+#EXTINF:-1 tvg-id="", TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="",TRT.tr
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:-1 tvg-id="",TRT HD
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 tvg-id="",RTK 1 
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="",RTK 1 HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
+#EXTINF:-1 tvg-id="",RTK 3 HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/index.m3u8
 #EXTINF:-1 tvg-id="",RTK 4 
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="SIC.pt",SIC Portugal
+#EXTINF:-1 tvg-id="",RTK 4 HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/o9w-k53-7pb-m78/index.m3u8
+#EXTINF:-1 tvg-id="",SIC Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
