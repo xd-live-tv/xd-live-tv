@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 , Croatia Music Channel (CMC)
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 , BHT 1 (Geoblok)
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 , KURIR TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
+#EXTINF:-1 , BHT 1 HD (Geo-blok)
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 , BN Televizija
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 , Super Media TV
@@ -25,20 +25,22 @@ https://live.rednet.rs/providus/redtv_multi.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="",TV Nova 
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="",BLIC TV
+https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 , VIVA Music TV
 https://glb.bozztv.com/glb/ssh101/vivarussia/index.m3u8
-#EXTINF:-1 , EXTRA TV Hrvatska
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 , ADRIA Music Channel
+https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
 #EXTINF:-1 tvg-id="",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 , TOP Music
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 , FolkPulse TV
-https://glb.bozztv.com/glb/ssh101/folkpulse/index.m3u8
+#EXTINF:-1 , TOP TV Music
+http://74.208.199.212:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 , ONE1 Music Channel
+https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
 #EXTINF:-1 , Deluxe Music Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="", iHeart Radio 80s
@@ -50,7 +52,7 @@ https://ss.90minlive.online/sport/Lenz/playlist.m3u8
 #EXTINF:-1 , JOJ Sport
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 , Contacto TV Peru
-https://infosmartpe.store:5443/LiveApp/streams/YbUo038oI2ZB2997740355730_adaptive.m3u8
+https://infosmartpe.store:5443/LiveApp/streams/YbUo038oI2ZB2997740355730.m3u8
 #EXTINF:-1 , Multivision Sports Guatemala
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="", CBSSN 
@@ -79,8 +81,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 , 4sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 , TVRI Sport Indonesia
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 , START Triumpf Russia
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="", Belarus 5 Sport Internet
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" user-agent="ExoPlayer2/2.37",Idman Azerbaijan
@@ -108,8 +110,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 , euronews.
-https://lnc-euronews2.tubi.video/euronews-en.m3u8
+#EXTINF:-1 , TalkTV UK
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 , AL Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 , AL Jazeera English
