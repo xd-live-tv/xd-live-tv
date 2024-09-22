@@ -40,7 +40,7 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 , TOP TV Music
 http://74.208.199.212:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 , ONE1 Music Channel
-https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
 #EXTINF:-1 , Deluxe Music Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="", iHeart Radio 80s
@@ -96,6 +96,8 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="", USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 , Charge! TV
