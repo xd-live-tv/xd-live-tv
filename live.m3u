@@ -39,8 +39,10 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 , TOP TV Music
 http://74.208.199.212:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 , ONE1 Music Channel
-https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
+#EXTINF:-1 , EXTRA TV HR
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 , BALKAN Salzburg TV
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 , Deluxe Music Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="", iHeart Radio 80s
@@ -81,8 +83,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 , 4sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 , START Triumpf Russia
-https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="", Belarus 5 Sport Internet
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" user-agent="ExoPlayer2/2.37",Idman Azerbaijan
@@ -141,3 +141,5 @@ http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Action 24 Greece
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:190, Radio 31 Plus
+https://cast4.asurahosting.com/proxy/dejan/stream?1728043613721
