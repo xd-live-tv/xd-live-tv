@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali", KURIR TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", BHT 1 HD (Geo-blok)
+#EXTINF:-1 group-title="TV Kanali", BHT 1 (Geo-lock)
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="TV Kanali", BN Televizija
+#EXTINF:-1 group-title="TV Kanali",BN
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
@@ -13,9 +13,9 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Kockica HR
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Sehara Online
-http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTV Pink
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS Plus
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Pink
 https://live.rednet.rs/providus/pink1.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV
 https://live.rednet.rs/providus/redtv_multi.m3u8
@@ -23,12 +23,12 @@ https://live.rednet.rs/providus/redtv_multi.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova 
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",BLIC TV
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 group-title="TV Kanali", VIVA Music TV
-https://glb.bozztv.com/glb/ssh101/vivarussia/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", ADRIA Music Channel
 https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",MUZZIK
@@ -41,8 +41,8 @@ http://74.208.199.212:8081/TopTV/live/playlist.m3u8
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", TURBO Televizija
 https://giatv.bozztv.com/giatv/giatv-turbomuzika/turbomuzika/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", BALKAN Salzburg TV
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Radio Stanice", iHeart Radio 80s
@@ -110,8 +110,8 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NBCLX Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",MSNBC
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", TalkTV UK
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera Balkans
@@ -139,6 +139,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Action 24 Greece
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:190 group-title="Radio Stanice", Radio 31 Plus
@@ -147,3 +149,5 @@ https://cast4.asurahosting.com/proxy/dejan/stream?1728043613721
 https://big2.bigportal.ba:8080/big2
 #EXTINF:190 group-title="Radio Stanice", Radio Ritam Srca
 https://s4.radio.co/s0f65dad2d/listen
+#EXTINF:190 group-title="Radio Stanice",RTV BN
+https://stream.radiobn.net/;stream.mp3
