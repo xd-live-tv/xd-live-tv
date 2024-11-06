@@ -23,6 +23,8 @@ https://live.rednet.rs/providus/redtv_multi.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova 
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",BA.tv
+https://giatv.bozztv.com/giatv/giatv-batv/batv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
