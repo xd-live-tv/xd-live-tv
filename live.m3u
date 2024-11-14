@@ -155,3 +155,5 @@ https://big2.bigportal.ba:8080/big2
 https://s4.radio.co/s0f65dad2d/listen
 #EXTINF:190 group-title="Radio Stanice",RTV BN
 https://stream.radiobn.net/;stream.mp3
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TURBO OD
+https://giatv.bozztv.com/giatvplayout/giatv-208387/index.m3u8
