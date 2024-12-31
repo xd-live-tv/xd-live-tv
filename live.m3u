@@ -15,24 +15,24 @@ https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS Plus
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Pink HD
-https://live.rednet.rs/providus/pink1.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV HD
-https://live.rednet.rs/providus/redtv_multi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV HD
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",BA.tv
-https://giatv.bozztv.com/giatv/giatv-batv/batv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV HD
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M BiH
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 group-title="TV Kanali", Kronehit TV HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", ADRIA Music Channel HD
-https://cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS HD
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Pink HD
+https://live.rednet.rs/providus/pink1.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV HD
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 group-title="TV Kanali",RTV BN
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Happy TV
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/7.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",MUZZIK HD
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Radio S TV
@@ -43,12 +43,18 @@ http://74.208.199.212:8081/TopTV/live/playlist.m3u8
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="TV Kanali", FOLKPulse TV
+#EXTINF:-1 group-title="TV Kanali", FOLK Pulse
 https://glb.bozztv.com/glb/ssh101/turbomuzika/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", OTV Valentino
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8521.m3u8
+#EXTINF:-1 group-title="TV Kanali", BN Music
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8537.m3u8
 #EXTINF:-1 group-title="TV Kanali", CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music HD Deutschland
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="TV Kanali", Kronehit TV HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Radio Stanice", iHeart Radio 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Radio Stanice", iHeart Radio 90s
