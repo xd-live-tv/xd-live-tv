@@ -3,8 +3,6 @@
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT 1 HD (Geo-lock)
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="TV Kanali",RTV BN
-https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV HD
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", TV HB
