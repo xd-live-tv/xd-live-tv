@@ -43,8 +43,10 @@ http://74.208.199.212:8081/TopTV/live/playlist.m3u8
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="TV Kanali", FOLK Pulse
-https://glb.bozztv.com/glb/ssh101/turbomuzika/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", BALKAN Music Salzburg
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", KRAJINA Music Salzburg
+https://stream.gia.tv/giatvplayout7/giatv-208387/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", OTV Valentino
 http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8521.m3u8
 #EXTINF:-1 group-title="TV Kanali", BN Music
