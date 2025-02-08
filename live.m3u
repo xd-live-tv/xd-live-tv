@@ -101,8 +101,8 @@ https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
 https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports5.bo",Zoy Sport 5 HD
 https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",DUBAI Racing 3 HD
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", My Futbol RU
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mf45/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports HD
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",IRIB Varzesh HD
@@ -131,12 +131,10 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Charge! TV
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="TV Kanali", NORD. TV
+#EXTINF:-1 group-title="TV Kanali", VICE US
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", nord.tv
 https://glb.bozztv.com/glb/ssh101/nordtv01/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", COMET
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Travelxp 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NBClx Home
@@ -183,8 +181,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP World
-https://sdt-thinx3-183.tvp.pl/token/video/live/51656539/20250202/1297021748/3744GQdZNSr4O1Mc4YWKwEtVyi_J_g8jueSsNRTPotb53EIsmM6lhpyyVRl5R0fWj66hbF6lRqvZK5RglBZfhAMY3kwH8MpjpQK669nudxM1oelPpojqh-8QIQdNJiWxNM1-UpUJEjDVsYtEU5DVCOFlW_dv64WZJ-Ka8KtTW6B_i8fIOgLzt0D7ZD1ER3mw/156/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",SIC HD Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
