@@ -11,8 +11,8 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Kockica HD
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS Plus
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV HD
+https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV HD
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
@@ -21,14 +21,14 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV
 https://ktvuzivo.rs/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Belle Amie TV RS
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet HD
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Pink HD
 https://edge8.pink.rs/pinktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV HD
-https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Happy TV
@@ -75,13 +75,13 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Belarus 5 Sport 
+#EXTINF:-1 group-title="TV Kanali", Belarus 5 
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport 
-http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
+https://hls.shift.tv/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports TV HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports HD
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
@@ -89,43 +89,43 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV Kanali",Sharjah Sports HD
+#EXTINF:-1 group-title="TV Kanali",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports1.bo",Zoy Sport 1 HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports1.bo",Zoy Sport 1 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports2.bo",Zoy Sport 2 HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports2.bo",Zoy Sport 2 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports3.bo",Zoy Sport 3 HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports3.bo",Zoy Sport 3 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports4.bo",Zoy Sport 4 HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports4.bo",Zoy Sport 4 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports5.bo",Zoy Sport 5 HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports5.bo",Zoy Sport 5 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", My Futbol RU
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", My Futbol Ukraine
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mf45/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", 4 Sports HD
+#EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",IRIB Varzesh HD
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", Varzesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belarus 5 Sport Internet HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belarus 5 Internet
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport TV
+#EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 1 IR
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 1
 https://ncdn.telewebion.com/twsport/live/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 2 IR
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 2
 https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 3 IR
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 3 
 https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",FOX HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",FOX Network USA
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", SHOWTIME HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
