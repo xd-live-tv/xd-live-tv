@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali", KURIR TV
+#EXTINF:-1 group-title="TV Kanali", KURIR
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", BHT 1 HD
-https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 group-title="TV Kanali", BHT 1
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
@@ -17,8 +17,8 @@ https://edge8.pink.rs/redtv/playlist.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Zapad HR
-http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
+https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV HD
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV
@@ -45,29 +45,29 @@ https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", BALKAN Music Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", KRAJINA Music Salzburg
-https://stream.gia.tv/giatvplayout7/giatv-208387/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Veseljak TV Slovenia
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali", OTV Valentino
 http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8521.m3u8
 #EXTINF:-1 group-title="TV Kanali", BN Music
 http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8537.m3u8
 #EXTINF:-1 group-title="TV Kanali", CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Bravo! HR
-https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit TV 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radio Stanice", iHeart Radio 80s
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", iHeart Radio 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Radio Stanice", iHeart Radio 90s
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", iHeart Radio 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Fight Network
+#EXTINF:-1 group-title="TV Kanali", AXS Fights
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1  group-title="TV Kanali", Multivision Sports LATAM
+#EXTINF:-1  group-title="TV Kanali", Multivision Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", CBSSN
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", CBS Sports
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -75,6 +75,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
 https://hls.shift.tv/live/playout.m3u8
+#EXTINF:-1 group-title="TV Kanali", Motowizja PL
+http://185.236.229.62:9981/play/a02r
 #EXTINF:-1 group-title="TV Kanali", Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports HD
@@ -91,30 +93,24 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports2.bo",Zoy Sport 2 (Live only)
 https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports3.bo",Zoy Sport 3 (Live only)
-https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports4.bo",Zoy Sport 4 (Live only)
-https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports5.bo",Zoy Sport 5 (Live only)
-https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Fast Sports Armenia
 http://stream01.vnet.am/Channel_131/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belarus 5 Internet
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 1
-https://ncdn.telewebion.com/twsport/live/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 2
-https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="",Telewebion Sport 3 
-https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Polsat Sport
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 2
+http://109.233.89.170/Eleven_Sports_2_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 3
+http://109.233.89.170/Eleven_Sports_3_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 4
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
@@ -137,7 +133,7 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 https://glb.bozztv.com/glb/ssh101/nordtv01/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Travelxp HD 
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NBClx Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -167,8 +163,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", First Channel Georgia
 https://rpn3.bozztv.com/dvrfl05/gin-1sttv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Thairath TV Thailand
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE 24 Trend
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 
@@ -181,23 +175,13 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Romania International HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Romania Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP HD
-https://irylek.ct8.pl/stream/tvp1hd
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP World HD
+https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 3
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:190 group-title="Radio Stanice", Radio 31 Plus
-https://cast4.asurahosting.com/proxy/dejan/stream?1728043613721
-#EXTINF:190 group-title="Radio Stanice", BIG 2
-https://big2.bigportal.ba:8080/big2
-#EXTINF:190 group-title="Radio Stanice", Radio Ritam Srca
-https://s4.radio.co/s0f65dad2d/listen
-#EXTINF:190 group-title="Radio Stanice",RTV BN
-https://stream.radiobn.net/;stream.mp3
