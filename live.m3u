@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali", KURIR
-https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", BHT 1
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 group-title="TV Kanali",Euronews English
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", BHT HD
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
@@ -165,10 +165,16 @@ https://rpn3.bozztv.com/dvrfl05/gin-1sttv/index.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1 group-title="TV Kanali",ALB UK TV
+https://albuk.albuk.co:8443/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Romania Int.
