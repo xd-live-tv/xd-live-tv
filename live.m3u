@@ -97,6 +97,8 @@ https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
 http://stream01.vnet.am/Channel_131/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV Kanali", gol.hr
+https://cdn-uc.brid.tv/livestream/eu/f1d26a28c95485cc/out/v1/52a82de6f9c04f16b9e705c3e2375fb1/30180_2072736_index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus RS
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
