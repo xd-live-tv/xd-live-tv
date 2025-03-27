@@ -5,12 +5,16 @@ https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTL Hrvatska 
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria Vision Medjugorje
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
