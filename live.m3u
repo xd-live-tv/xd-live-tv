@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali",Euronews English
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali",Euronews
+https://tgn.bozztv.com/trn03/gin-euronews/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
@@ -9,10 +9,8 @@ https://mirtv.club/live/mirtv/index.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 group-title="TV Kanali", RTL Hrvatska 
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Libertas TV Hrvatska
+https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV
@@ -79,8 +77,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
 https://hls.shift.tv/live/playout.m3u8
-#EXTINF:-1 group-title="TV Kanali", Motowizja PL
-http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 group-title="TV Kanali", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="TV Kanali", Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports HD
@@ -97,32 +95,22 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports2.bo",Zoy Sport 2 (Live only) BO
 https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Fast Sports Armenia
-http://stream01.vnet.am/Channel_131/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TV Kanali", gol.hr
-https://cdn-uc.brid.tv/livestream/eu/f1d26a28c95485cc/out/v1/52a82de6f9c04f16b9e705c3e2375fb1/30180_2072736_index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus RS
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport SD
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Polsat Sport TV
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 2
-http://109.233.89.170/Eleven_Sports_2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 3
-http://109.233.89.170/Eleven_Sports_3_HD/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Eleven Sports 4
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",FOX USA
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",CBS USA
+https://tgn.bozztv.com/dvrfl05/gin-cbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", SHOWTIME USA
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", USA Network
@@ -135,6 +123,8 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", FX LATAM
 https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", South Park English 24h
+https://sv0.data-stream.top/f84c0bf79bafd7789c119b988c968609a3ff87fbbc939d83b88a125e418a7b8e/hls/southpark.m3u8
 #EXTINF:-1 group-title="TV Kanali", nord.tv
 https://glb.bozztv.com/glb/ssh101/nordtv01/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
