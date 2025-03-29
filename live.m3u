@@ -91,17 +91,17 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TV Kanali",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports1.bo",Zoy Sport 1 (Live only) BO
-https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="ZoyTVSports2.bo",Zoy Sport 2 (Live only) BO
-https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id=",Zoy Sports (Live only)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id=",Azadi Sport
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/azadisport/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus RS
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport SD
+#EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
@@ -126,7 +126,7 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", South Park English 24h
 https://sv0.data-stream.top/f84c0bf79bafd7789c119b988c968609a3ff87fbbc939d83b88a125e418a7b8e/hls/southpark.m3u8
 #EXTINF:-1 group-title="TV Kanali", nord.tv
-https://glb.bozztv.com/glb/ssh101/nordtv01/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/nordtv01/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Travelxp
@@ -135,19 +135,19 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Talk UK
+#EXTINF:-1 group-title="TV Kanali", Talk
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", CBC News CA
+#EXTINF:-1 group-title="TV Kanali", CBC News Canada
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", NewsNation
+#EXTINF:-1 group-title="TV Kanali", NewsNation USA
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", VOA Global
 https://amg00241-usagm-amg00241c2-amagitv-us-2272.playouts.now.amagi.tv/usagm_glomed1/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", WION International
+#EXTINF:-1 group-title="TV Kanali", WION News
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -155,17 +155,17 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" group-title="TV Kanali",IRIB TV3
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", First Channel Georgia
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", 1TV Georgia
 https://rpn3.bozztv.com/dvrfl05/gin-1sttv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", QVC UK
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE24 Trend Deutschland
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1 group-title="TV Kanali",ALB UK TV
+#EXTINF:-1 group-title="TV Kanali",ALB UK HD
 https://albuk.albuk.co:8443/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -173,9 +173,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Romania Int.
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVR Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP World HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP World
 https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
