@@ -195,3 +195,21 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X1 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X2 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex1.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X3 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex2.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X4 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex3.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X5 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex4.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X6 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/sex5.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X7 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/brazzertv.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X8 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/hustler.m3u8
+#EXTINF:-1 "group-title="TV Kanali", X9 18+
+https://sv7.data-stream.top/9a082dca58364a7f48652c6e7dc1c35cf1f07c4920460e175ad7c549621a544d/hls/dorceltv.m3u8
