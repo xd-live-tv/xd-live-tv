@@ -145,6 +145,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", CBC News Canada
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
