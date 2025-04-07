@@ -7,6 +7,10 @@ https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 group-title="TV Kanali",NTV IC Kakanj
+https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+#EXTINF:-1 group-title="TV Kanali",TV Zenica HD
+https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Libertas TV Hrvatska
