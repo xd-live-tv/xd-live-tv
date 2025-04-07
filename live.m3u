@@ -37,14 +37,16 @@ https://live.tv-m.net/hls/stream.m3u8
 https://edge8.pink.rs/pinktv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",Adria Hits 1
+https://de1.adriatelekom.com/AdriaHits1-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", WorldWide Muzzik
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Muzzik
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", RTV Puls BiH
-https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Adria Folk
+https://de1.adriatelekom.com/AdriaFolk-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
@@ -57,6 +59,10 @@ http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8521.m3u8
 http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8537.m3u8
 #EXTINF:-1 group-title="TV Kanali", CMC - Croatia Music Channel
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="TV Kanali", Adria EX-YU Rock
+https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Adria Urban
+https://de1.adriatelekom.com/AdriaUrban-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music DE
@@ -67,6 +73,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Adria 90s
+https://de1.adriatelekom.com/Adria90s-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Fight Channel
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  group-title="TV Kanali", Multivision Sports
@@ -97,6 +105,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id=",Azadi Sport
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/azadisport/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id=",Varzish TV
+https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", 4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
@@ -111,8 +121,8 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", SportKlub PL
-http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Adria eSports
+https://de1.adriatelekom.com/AdriaESports-www/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Man United TV
@@ -133,7 +143,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", CMT USA
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", E! Entertainment TV
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", E! Entertainment USA
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", nord.tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/nordtv01/playlist.m3u8
@@ -157,8 +167,8 @@ https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", NewsNation USA
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", VOA Global
-https://amg00241-usagm-amg00241c2-amagitv-us-2272.playouts.now.amagi.tv/usagm_glomed1/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Current Time TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Sky News Weather
