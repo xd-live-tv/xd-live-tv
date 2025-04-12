@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali",Euronews
-https://tgn.bozztv.com/trn03/gin-euronews/index.m3u8
+https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
@@ -111,6 +111,14 @@ https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P HD
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8598.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P HD
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8599.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P
+https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
+https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
