@@ -120,6 +120,8 @@ http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8599.m3u8
 https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
 https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
