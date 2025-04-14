@@ -28,12 +28,14 @@ https://edge8.pink.rs/narodnatv/playlist.m3u8
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
+#EXTINF:-1 tvg-id="", RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV
 https://53be5ef2d13aa.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV Zrenjanin
 https://ktvuzivo.rs/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Belle Amie RS
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV AS Srbija
+https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
@@ -142,8 +144,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",FOX USA
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TMZ USA
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",CBS USA
 https://tgn.bozztv.com/dvrfl05/gin-cbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", SHOWTIME USA
@@ -196,6 +198,8 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="NasaTV.mk",Naša TV MK
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Vizion Plus
@@ -210,8 +214,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVR Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP World
-https://irylek.ct8.pl/stream/tvpworld
+#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
