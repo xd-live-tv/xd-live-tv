@@ -205,6 +205,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 2 Switzerland
+https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVR Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
