@@ -9,7 +9,7 @@ https://mirtv.club/live/mirtv/index.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="TV Kanali",NTV IC Kakanj
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-#EXTINF:-1 group-title="TV Kanali",TV Zenica HD
+#EXTINF:-1 group-title="TV Kanali",TV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
@@ -26,6 +26,8 @@ https://edge8.pink.rs/redtv/playlist.m3u8
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
+https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-id="", RTS 1
@@ -70,6 +72,8 @@ https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
 https://de1.adriatelekom.com/AdriaUrban-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music DE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit tv 
@@ -204,7 +208,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 2 Switzerland
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 1
+https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 2
 https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVR Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
