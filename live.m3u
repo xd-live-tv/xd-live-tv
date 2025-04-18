@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali",Euronews
-https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
+#EXTINF:-1 group-title="TV Kanali",ABC News USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
