@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali",ABC News USA
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="TV Kanali", BHT HD
-https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 group-title="TV Kanali", BHT1
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
@@ -126,7 +126,7 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="TV Kanali", Live Mix
+#EXTINF:-1 group-title="TV Kanali", Live Sports HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/livemixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
@@ -206,6 +206,8 @@ https://albuk.albuk.co:8443/albuk/albuk.stream/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", MEGA TV Spain
+http://185.189.225.150:85/mega/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 1
