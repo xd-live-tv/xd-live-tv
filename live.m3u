@@ -112,10 +112,18 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/azadisport/playlist.m3u8
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P HD
-http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8598.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P HD
-http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8599.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", E2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", ESPNU
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", ENews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", E Deporte
+https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", SportsNET 360
+https://v1.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network USA
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P
 https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
@@ -124,6 +132,8 @@ https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
 https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Idman TV AZ
+https://str.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Live Sports HD
