@@ -87,7 +87,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  group-title="TV Kanali", Multivision Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", CBS Sports
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
