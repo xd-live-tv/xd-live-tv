@@ -56,6 +56,8 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 https://de1.adriatelekom.com/AdriaFolk-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="TV Kanali", FOLKpulse TV
+https://live20.bozztv.com/giatvplayout7/giatv-209891/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Veseljak TV Slovenia
