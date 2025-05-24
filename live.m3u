@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="TV Kanali",ABC News USA
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT1
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
@@ -11,39 +11,54 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
 #EXTINF:-1 group-title="TV Kanali",TV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 group-title="TV Kanali",RTV BN
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",Alternativna TV
+https://vpn.komtel.ba/hls/mylivestream.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", HTV 1
+#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="TV Kanali", HTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 group-title="TV Kanali", Libertas TV Hrvatska
+#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="TV Kanali",HTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 group-title="TV Kanali", Libertas TV HR
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Zapad HR
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
+https://edge8.pink.rs/pinktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
-https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
-#EXTINF:-1 tvg-id="", RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic TV
-https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV KURIR
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KTV Zrenjanin
 https://ktvuzivo.rs/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV AS Srbija
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
-https://edge8.pink.rs/pinktv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali",BN TV
-https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Anie
+http://92.60.238.10:1935/live/belleamie/chunklist_w1987720129.m3u8
 #EXTINF:-1 group-title="TV Kanali",Adria Hits 1
 https://de1.adriatelekom.com/AdriaHits1-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", WorldWide Muzzik
@@ -92,8 +107,6 @@ http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://hls.shift.tv/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="TV Kanali", GEM Sport
-https://glserver.aparatlive.online/live/soTIwdLufLQtTolsng4bGA__/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 1
@@ -112,6 +125,8 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network HD
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", A1P
+https://esx1new.newkso.ru/esx1/primarena1premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P
 https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
@@ -119,15 +134,9 @@ https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
-https://rpn3.bozztv.com/dvrfl05/gin-silkuniversal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDI1IDE6MjY6NTcgUE0maGFzaF92YWx1ZT1lNTBSMUtMSGQ1N2NmcE5Ha3BPTzZBPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Idman TV AZ
-https://str.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8
+https://streaming-hls3.televizia.org/hls/silk.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="TV Kanali", Матч! ТВ - Match TV!
-https://cda.tas-ix.tv/match/index.m3u8?token=294086d030fbaadb5c0e12682d515d209246a805-0477b18d7ddb16a554455ee2e980a172-1747934430-1747923630
-#EXTINF:-1 group-title="TV Kanali", Live Sports HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/livemixflix/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NRT Sport
 https://live20.bozztv.com/giatv/giatv-nrtsports/nrtsports/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
@@ -188,8 +197,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai One HD
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", 1TV Georgia
-https://rpn3.bozztv.com/dvrfl05/gin-1sttv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDI1IDE6MjI6MzcgUE0maGFzaF92YWx1ZT1kZGpYZFloVkhQazk5MFhGZEE4M2NnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Ictimai TV
+https://live.itv.az/itv.m3u8
 #EXTINF:-1 "group-title="TV Kanali", FREEDOM - FREEДОМ Ukraine
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE24 Trend Deutschland
@@ -199,7 +208,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Vizion Plus
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+https://mfe01.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 group-title="TV Kanali",ALB UK HD
 https://albuk.albuk.co:8443/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",SIC
@@ -212,23 +221,20 @@ http://185.189.225.150:85/mega/index.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV3 CAT
 http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland SD
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Servus TV SD
+https://strm.hdtvizlecanli.com/live/servus.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",KIKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Sonnenklar TV HD
+https://edge0751-05mx1.flex-cdn.net/4d4efb34277ce08d1f14764b8213bdb606aae1b8ec4da10f80b7/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 1
 https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 2
 https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVR Int.
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 "group-title="TV Kanali", Russia 1 (Kaliningrad) - Россия 1 (Калининград)
