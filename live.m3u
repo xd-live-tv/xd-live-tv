@@ -241,3 +241,17 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 "group-title="TV Kanali", Arena 1P
+https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
+#EXTINF:-1 "group-title="TV Kanali", FOX Soccer +
+https://wikinew.newkso.ru/wiki/foxsoccerplus/mono.m3u8
+#EXTINF:-1 "group-title="TV Kanali", Nova S3
+https://top2new.newkso.ru/top2/ftknovasport3/mono.m3u8
+#EXTINF:-1 "group-title="TV Kanali", SPORT TV4
+https://top2new.newkso.ru/top2/eplayerSPORTTV4/mono.m3u8
+#EXTINF:-1 "group-title="TV Kanali", SS VARIETY 3
+https://x4new.newkso.ru/x4/eplayerSuperSportVariety3/mono.m3u8
+#EXTINF:-1 "group-title="TV Kanali", LIVE EVENT 1
+https://mfvideo135.icu/hls/ms31.m3u8
+#EXTINF:-1 "group-title="TV Kanali", LIVE EVENT 2
+https://mfvideo135.icu/hls/ms45.m3u8
