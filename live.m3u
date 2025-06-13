@@ -67,8 +67,8 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Adria Folk
-https://de1.adriatelekom.com/AdriaFolk-www/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Adria Narodna
+https://de1.adriatelekom.com/AdriaNarodna-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", FOLKpulse TV
@@ -81,8 +81,6 @@ https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Adria EX-YU Rock
 https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Adria Urban
-https://de1.adriatelekom.com/AdriaUrban-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Latina
@@ -103,6 +101,8 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", FanDuel Sports
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
 https://hls.shift.tv/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
@@ -126,19 +126,25 @@ http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network HD
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A1P
-https://esx1new.newkso.ru/esx1/primarena1premiuserbia/mono.m3u8
+https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P
 https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
 https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Silk Universal
-https://streaming-hls3.televizia.org/hls/silk.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", AVA Sports
+https://live20.bozztv.com/giatv/giatv-avasports/avasports/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="TV Kanali", Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", NRT Sport
 https://live20.bozztv.com/giatv/giatv-nrtsports/nrtsports/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", ČT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", RAI Sport 1
+https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Adria eSports
@@ -163,6 +169,8 @@ https://tvpass.org/live/DisneyXDEast/hd
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", VICE USA
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Bounce XL HD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", CMT USA
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", E! East USA
@@ -187,6 +195,8 @@ https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", NewsNation USA
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Bloomberg Quicktake HD
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
@@ -203,7 +213,7 @@ https://live.itv.az/itv.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE24 Trend Deutschland
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", HSN 2 USA
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTK 1 Sat
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
@@ -223,12 +233,16 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://185.189.225.150:85/tv3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Deutschland SD
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTL Nitro
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Super RTL
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Servus TV SD
 https://strm.hdtvizlecanli.com/live/servus.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",KIKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Sonnenklar TV HD
-https://edge0751-05mx1.flex-cdn.net/4d4efb34277ce08d1f14764b8213bdb606aae1b8ec4da10f80b7/stream1/streamPlaylist.m3u8
+https://edge0752-55mx1.flex-cdn.net/4d4efb34686c4b9b3488319f668b5b03b3a4d43ded25b2ecc570/manifest.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 1
 https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RSI La 2
@@ -241,17 +255,11 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 "group-title="TV Kanali", Arena 1P
-https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
-#EXTINF:-1 "group-title="TV Kanali", FOX Soccer +
-https://wikinew.newkso.ru/wiki/foxsoccerplus/mono.m3u8
-#EXTINF:-1 "group-title="TV Kanali", Nova S3
-https://top2new.newkso.ru/top2/ftknovasport3/mono.m3u8
-#EXTINF:-1 "group-title="TV Kanali", SPORT TV4
-https://top2new.newkso.ru/top2/eplayerSPORTTV4/mono.m3u8
-#EXTINF:-1 "group-title="TV Kanali", SS VARIETY 3
-https://x4new.newkso.ru/x4/eplayerSuperSportVariety3/mono.m3u8
-#EXTINF:-1 "group-title="TV Kanali", LIVE EVENT 1
-https://mfvideo135.icu/hls/ms31.m3u8
-#EXTINF:-1 "group-title="TV Kanali", LIVE EVENT 2
-https://mfvideo135.icu/hls/ms45.m3u8
+#EXTINF:-1 "group-title="TV Kanali", 24/7: Baywatch
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794333-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf6b9a6c-d0a8-4354-b1e0-ffb5af44b853
+#EXTINF:-1 "group-title="TV Kanali", 24/7: South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b150a15939400089e2702/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d46a94-438c-4a65-9e24-c9a6db15f909
+#EXTINF:-1 "group-title="TV Kanali", 24/7: Beverly Hills 90210
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265960-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b3051db-b19e-4913-a7e9-fddc37302264
+#EXTINF:-1 "group-title="TV Kanali", 24/7: CSI: Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8
