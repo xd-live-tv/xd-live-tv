@@ -59,7 +59,7 @@ https://ktvuzivo.rs/hls/stream.m3u8
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Anie
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Amie
 http://92.60.238.10:1935/live/belleamie/chunklist_w1987720129.m3u8
 #EXTINF:-1 group-title="TV Kanali",Adria Hits 1
 https://de1.adriatelekom.com/AdriaHits1-www/index.m3u8
@@ -69,8 +69,6 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Adria Narodna
-https://de1.adriatelekom.com/AdriaNarodna-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", FOLKpulse TV
@@ -81,20 +79,16 @@ https://eu.live.skyfolk.mk/live.m3u8
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali", CMC - Croatia Music Channel
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 group-title="TV Kanali", Adria EX-YU Rock
-https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Latina
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Deluxe Music DE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="TV Kanali", Kronehit tv 
+#EXTINF:-1 group-title="TV Kanali", Kronehit 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", MTV Classic USA
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Adria 90s
-https://de1.adriatelekom.com/Adria90s-www/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1  group-title="TV Kanali", Multivision Sports
@@ -127,16 +121,8 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network HD
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", A1P
-https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", A2P
-https://esx1new.newkso.ru/esx1/primarena2premiuserbia/mono.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", A3P
-https://esx1new.newkso.ru/esx1/primarena3premiuserbia/mono.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", AVA Sports
-https://live20.bozztv.com/giatv/giatv-avasports/avasports/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Star Sports 1
@@ -149,12 +135,12 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", talkSPORT TV
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Adria eSports
-https://de1.adriatelekom.com/AdriaESports-www/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Man United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
@@ -203,6 +189,8 @@ https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 group-title="TV Kanali", PressTV Iran (on English)
+https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",MBC 1
