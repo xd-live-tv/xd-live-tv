@@ -11,6 +11,8 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
 #EXTINF:-1 group-title="TV Kanali",TV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 group-title="TV Kanali",Nova TV BiH
+http://91.132.74.5:8000/play/a005
 #EXTINF:-1 group-title="TV Kanali",RTV BN
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Alternativna TV
@@ -41,6 +43,8 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
+https://cachehsi1a.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
@@ -91,8 +95,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1  group-title="TV Kanali", Multivision Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1  group-title="TV Kanali", Arena Sport 1 BH
+http://91.132.74.5:8000/play/a00k
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", CBS Sports
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
