@@ -73,6 +73,8 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="TV Kanali", DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 group-title="TV Kanali", Adria Hits 4K
 https://de1.adriatelekom.com/AdriaHits4K-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
