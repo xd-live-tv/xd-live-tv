@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali",ABC News USA
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="TV Kanali", BHT1
+#EXTINF:-1 group-title="TV Kanali", BHT 1
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 group-title="TV Kanali", BHT HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://mirtv.club/live/mirtv/index.m3u8
@@ -175,6 +175,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", CBC News Canada
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 group-title="TV Kanali",ABC News USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
