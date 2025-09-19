@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali", BHT 1
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 group-title="TV Kanali", BHT HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
@@ -51,6 +49,8 @@ https://edge8.pink.rs/pinktv/playlist.m3u8
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Happy
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV KURIR
@@ -59,8 +59,6 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/ind
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV AS Srbija
 https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Super
-https://live20.bozztv.com/akamaissh101/ssh101/televizijasuper/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Amie
@@ -75,8 +73,6 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 group-title="TV Kanali", DM Sat
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
-#EXTINF:-1 group-title="TV Kanali", Adria Hits 4K
-https://de1.adriatelekom.com/AdriaHits4K-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Veseljak TV Slovenia
@@ -91,18 +87,18 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", MTV Classic USA
-https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1  group-title="TV Kanali", TV 4 Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", CBS Sports
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", FS1
-http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", FanDuel Sports
-https://fl3.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", AD Sports 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", IRIB 3 HD
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", IRIB Varzesh HD
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
 https://hls.shift.tv/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
