@@ -13,6 +13,8 @@ https://stream.rtvze.ba/live/123/123.m3u8
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Alternativna TV
 https://vpn.komtel.ba/hls/mylivestream.m3u8
+#EXTINF:-1 group-title="TV Kanali",MYTV HD
+http://zvjerka.com:2052/live/DejanAleksic/QB48GqZdBu/8607.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="TV Kanali", HTV 1
