@@ -97,16 +97,18 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", AD Sports 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", IRIB 3 HD
-https://ncdn.telewebion.com/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", IRIB Varzesh HD
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
 https://hls.shift.tv/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports 1
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1  group-title="TV Kanali", Persiana Sports 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1  group-title="TV Kanali", SMARTER+
+https://live20.bozztv.com/giatv/giatv-smarterplus/smarterplus/playlist.m3u8
+#EXTINF:-1  group-title="TV Kanali", Saiwan
+https://af.ayassport.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 2
@@ -115,10 +117,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", ESPNU
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", ENews
-http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network HD
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
@@ -139,8 +137,14 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", AN Sport (Live only)
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_6yAwFweJ/wixmp-3dbd5cb16bb136182e099f78_6yAwFweJ_.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", UCL 1
+https://abigail.qiyarmedia.com/rma.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", UCL 2
+https://abigail.qiyarmedia.com/tnt3.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", UCL 3
+https://abigail.qiyarmedia.com/tnt2.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", NRT Sport
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",NBC USA
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ABC USA
@@ -195,6 +199,8 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Ictimai TV
 https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Qazaqstan TV
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 "group-title="TV Kanali", FREEDOM - FREEДОМ Ukraine
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", HSE24 Trend Deutschland
