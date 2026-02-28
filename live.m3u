@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV Kanali", BHT1 HD
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 group-title="TV Kanali", Federalna TV
+https://srv1.adriatelekom.com/FederalnaTV/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", OBN
+https://srv1.adriatelekom.com/OBN/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Super Media TV
 https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
@@ -15,42 +19,34 @@ https://stream.rtvbn.tv:8080/live/index.m3u8
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="TV Kanali", HTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 tvg-id="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="TV Kanali",HTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 group-title="TV Kanali", HRT 1
+https://srv1.adriatelekom.com/HRT1/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", HRT 2
+https://srv1.adriatelekom.com/HRT2/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Diadora HR
+https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Libertas TV HR
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Zapad HR
-http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali",TVCG 3
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Z1
+https://stream.castr.com/677e935dd52df6c26274f169/live_07439d80cdd311ef8af99bfde92b2456/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nikšić
+https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
-https://parh.rtrs.tv/tv/live/playlist.m3u8
+https://srv1.adriatelekom.com/RTRS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Pink
 https://edge8.pink.rs/pinktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red TV
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Red
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Happy
-https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV KURIR
@@ -63,14 +59,10 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", Belle Amie
 http://92.60.238.10:1935/live/belleamie/chunklist_w1987720129.m3u8
-#EXTINF:-1 group-title="TV Kanali", WorldWide Muzzik
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Muzzik
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Radio S TV
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", EXTRA TV HD
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="TV Kanali", BN Music
+https://srv1.adriatelekom.com/BNMusic/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", DM Sat
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
