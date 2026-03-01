@@ -83,34 +83,28 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1  group-title="TV Kanali", TV 4 Sports
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", AD Sports 2
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1  group-title="TV Kanali", Abu Dhabi Sports 1
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Abu Dhabi Sports 2
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Shift TV 
-https://hls.shift.tv/live/playout.m3u8
+https://shifttv.b-cdn.net/live/playout.m3u8
 #EXTINF:-1 group-title="TV Kanali", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Persiana Sports 1
-https://spstr.abntv.live/hls/psstream.m3u8
+https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
 #EXTINF:-1  group-title="TV Kanali", Persiana Sports 2
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1  group-title="TV Kanali", SMARTER+
-https://live20.bozztv.com/giatv/giatv-smarterplus/smarterplus/playlist.m3u8
-#EXTINF:-1  group-title="TV Kanali", Saiwan
-https://af.ayassport.ir/hls2/bein1.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+https://gg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8
+#EXTINF:-1  group-title="TV Kanali", Persiana Sports 3
+https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
+#EXTINF:-1  group-title="TV Kanali", Persiana Sports 4
+https://gg.hls2.xyz/live/Persiana%20Sports4/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", NFL Network HD
-http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="TV Kanali" tvg-id="", Belarus 5 Интернет
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", RAI Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="TV Kanali" tvg-id="", Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="TV Kanali", Star Sports 1
