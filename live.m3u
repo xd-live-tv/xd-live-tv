@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Kanali", BHT1 HD
+#EXTINF:-1 group-title="TV Kanali", BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="TV Kanali", Federalna TV
+#EXTINF:-1 group-title="TV Kanali",Federalna televizija
 https://srv1.adriatelekom.com/FederalnaTV/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", OBN
+#EXTINF:-1 group-title="TV Kanali",OBN
 https://srv1.adriatelekom.com/OBN/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Super Media TV
+#EXTINF:-1 group-title="TV Kanali",Super Media TV
 https://live.probaj.net/live/mirtv/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Televizija 5 BiH
+#EXTINF:-1 group-title="TV Kanali",Televizija 5 BiH
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="TV Kanali",NTV IC Kakanj
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
 #EXTINF:-1 group-title="TV Kanali",TV Zenica 
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 group-title="TV Kanali",TV BN
-https://stream.rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", RTV Puls Brčko
+#EXTINF:-1 group-title="TV Kanali",BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 group-title="TV Kanali",RTV Puls Brčko
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", RTV HB
+#EXTINF:-1 group-title="TV Kanali",RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 group-title="TV Kanali", HRT1 HD
 https://srv1.adriatelekom.com/HRT1/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", HRT2 HD
 https://srv1.adriatelekom.com/HRT2/index.m3u8
-#EXTINF:-1 group-title="TV Kanali", Diadora HR
+#EXTINF:-1 group-title="TV Kanali",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Libertas TV
+#EXTINF:-1 group-title="TV Kanali",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria Vision Medjugorje
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria+Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova Pula
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", Z1
-https://stream.castr.com/677e935dd52df6c26274f169/live_07439d80cdd311ef8af99bfde92b2456/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG1
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
 https://srv1.adriatelekom.com/RTCG1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV Nikšić
 https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Sandzak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS1 HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 1
 https://srv1.adriatelekom.com/RTS1HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS2 HD
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2
 https://srv1.adriatelekom.com/RTS2HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS3
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 3
 https://srv1.adriatelekom.com/RTS3HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTRS
 https://srv1.adriatelekom.com/RTRS/index.m3u8
@@ -55,9 +55,13 @@ https://edge8.pink.rs/pinktv/playlist.m3u8
 https://edge8.pink.rs/redtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali", Happy
+https://srv1.adriatelekom.com/HappyTV/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Prva Kick
+https://srv1.adriatelekom.com/PrvaKick/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TOK TV
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TV KURIR
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Blic HD
 https://srv1.adriatelekom.com/BlicTV/index.m3u8
@@ -73,6 +77,8 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 https://srv1.adriatelekom.com/BNMusic/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", DM Sat
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+#EXTINF:-1 group-title="TV Kanali", OTV Valentino
+https://srv1.adriatelekom.com/OTVValentino/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", SKYfolk Macedonia HD
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TV AS Romania
@@ -85,11 +91,11 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali" tvg-id="",Trace Latina
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Deluxe Music DE
+#EXTINF:-1 group-title="TV Kanali", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="TV Kanali", Kronehit 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali", NOW 90s00s
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",That's 90s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", FITE 24h
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -141,24 +147,44 @@ https://live20.bozztv.com/akamaissh101/ssh101/sportdigtalfuss/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/sportdigtalplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", NRT Sport
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
-#EXTINF:-1 group-title="TV Kanali", Bounce XL HD
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
+#EXTINF:-1 group-title="TV Kanali", Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali",Rakuten TV Comedy UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="TV Kanali",Rakuten TV Action UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="TV Kanali",Rakuten TV Drama UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="TV Kanali",Pink Movies Serbia
+https://srv1.adriatelekom.com/PinkMovies/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",Travelxp
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",True History TV
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", NBClx Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali", Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", Talk TV 
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", Newsmax Balkans
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 group-title="TV Kanali", Euronews Serbia
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Kanali", AL Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", WION News
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 group-title="TV Kanali", ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="TV Kanali", PressTV Iran (on English)
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 "group-title="TV Kanali", FREEDOM - FREEДОМ Ukraine
@@ -195,11 +221,3 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 "group-title="TV Kanali", NTV HD RU - НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 "group-title="TV Kanali", 24/7: Baywatch
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794333-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf6b9a6c-d0a8-4354-b1e0-ffb5af44b853
-#EXTINF:-1 "group-title="TV Kanali", 24/7: South Park
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b150a15939400089e2702/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d46a94-438c-4a65-9e24-c9a6db15f909
-#EXTINF:-1 "group-title="TV Kanali", 24/7: Beverly Hills 90210
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265960-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b3051db-b19e-4913-a7e9-fddc37302264
-#EXTINF:-1 "group-title="TV Kanali", 24/7: CSI: Miami
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8
