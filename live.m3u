@@ -25,6 +25,8 @@ https://srv1.adriatelekom.com/HRT1/index.m3u8
 https://srv1.adriatelekom.com/HRT2/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 group-title="TV Kanali",RTL2
+https://srv1.adriatelekom.com/RTL2HRHD/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Maria+Vision Medjugorje
