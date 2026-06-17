@@ -235,4 +235,19 @@ https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",Antena 1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
+STREAM
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler
+https://nl1.dstv.cx/Hustler/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
+https://nl1.dstv.cx/Private/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RealityKings
+https://nl1.dstv.cx/RealityKings/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Dorcel TV
+https://nl1.dstv.cx/DorcelHD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Adult 1
+https://nl1.dstv.cx/AdultChannel1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Playboy HD
+https://nl1.dstv.cx/PlayboyHD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Babes TV
+https://nl1.dstv.cx/BabesTV/index.m3u8
