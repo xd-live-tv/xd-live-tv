@@ -217,15 +217,15 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 "group-title="TV Kanali",- - - WORLD CUP 2026 - - -
 LIVE STREAMS
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 1
-https://nl1.dstv.cx//RTCG1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2 HD
-https://nl1.dstv.cx/RTCG2/index.m3u8
+https://nl1.nghk.ai/RTCG1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV Kanali",TVCG 2 
+https://nl1.nghk.ai/RTCG2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",RTS 2
-https://nl1.dstv.cx/RTS2HD/index.m3u8
+https://nl1.nghk.ai/RTS2HD/index.m3u8
 #EXTINF:-1 group-title="TV Kanali",Federalna televizija
 https://nl1.dstv.cx/FederalnaTV/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ZDF
-https://nl1.dstv.cx/ZDF/index.m3u8
+https://nl1.nghk.ai/ZDF/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",TVP1
@@ -238,16 +238,16 @@ https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",- - - XXX - - -
 STREAM
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Hustler
-https://nl1.dstv.cx/Hustler/index.m3u8
+https://nl1.nghk.ai/Hustler/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Private HD
-https://nl1.dstv.cx/Private/index.m3u8
+https://nl1.nghk.ai/Private/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: RealityKings
-https://nl1.dstv.cx/RealityKings/index.m3u8
+https://nl1.nghk.ai/RealityKings/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Dorcel TV
-https://nl1.dstv.cx/DorcelHD/index.m3u8
+https://nl1.nghk.ai/DorcelHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Adult 1
-https://nl1.dstv.cx/AdultChannel1/index.m3u8
+https://nl1.nghk.ai/AdultChannel1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Playboy HD
-https://nl1.dstv.cx/PlayboyHD/index.m3u8
+https://nl1.nghk.ai/PlayboyHD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV Kanali",X: Babes TV
-https://nl1.dstv.cx/BabesTV/index.m3u8
+https://nl1.nghk.ai/BabesTV/index.m3u8
